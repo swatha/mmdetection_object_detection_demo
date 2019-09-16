@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>102.jpeg</filename>
+	<path>C:\Users\KVGVS\Desktop\dataset\102.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>55</ymin>
+			<xmax>215</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>number plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>12</ymin>
+			<xmax>243</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>
